@@ -47,3 +47,4 @@ class Alien(Sprite):
         # Use self.x to update the position of the alien's rect.
         self.rect.x = self.x
 # Feature
+#Feature from haris
