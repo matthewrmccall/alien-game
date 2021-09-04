@@ -46,3 +46,4 @@ class Alien(Sprite):
         self.x += (self.settings.alien_speed * self.settings.fleet_direction)
         # Use self.x to update the position of the alien's rect.
         self.rect.x = self.x
+# Feature
